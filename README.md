@@ -5,12 +5,20 @@
     <img src="https://img.shields.io/badge/WELCOME_TO_MY-%231A1A1A?style=for-the-badge&labelColor=%23C17817" alt="Welcome To My">
     <img src="https://img.shields.io/badge/GITHUB_PROFILE-%23333333?style=for-the-badge&labelColor=%231A1A1A" alt="Github Profile">
   </h1>
+</div>
 
+<div align="center">
   ## ☕ FIRST, GET THAT SOUL NOURISHMENT.
  <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3ZXVubWEydWxleXB2ZjFnb2JjN3YxcjFmcmUzNWF0a20wdnA5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H039N0p5winHG/giphy.gif
 
+<div align="center">
+  <!-- VIBRANT HEADER & GIF SIDE-BY-SIDE -->
+  <h3>
+    <img src="https://img.shields.io/badge/I_LOVE_CODE-%2300FF66?style=for-the-badge&logo=codefactor&logoColor=black" alt="I Love Code">
+    &nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="45" align="center">
+  </h3>
 </div>
-  
 
   <!-- 2. UNDER CONSTRUCTION GIF (Tenor) -->
   <img src="https://media.tenor.com/7bAonm1hAnAAAAAi/under-construction-site.gif" alt="Under Construction" width="350">
@@ -34,7 +42,7 @@
 
 <br>
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ3OXAxY3pxcjgxZ21pYTQzNXJjczZ2a3BycWMzOGtrY3Z4OG01cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sPAvCTp1A3LPEQoesl/giphy.gif)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG50aHI2cjN2dDIxZjhueWxsd3JwbWttd2tudTFzajh3NTU4NGFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IDtfwOtb0729y/giphy.gif)
 
 <br>
 

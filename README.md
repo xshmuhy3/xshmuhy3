@@ -1,7 +1,6 @@
 <div align="center">
   <!-- 1. WELCOME TO MY GITHUB PROFILE GIF (Giphy) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM200c3B6YXYwNm93NXp0bW9wM281b3ZpZ29scXptY3Znd3B5ZzF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYC0LajbaPoEADu/giphy.gif" alt="Welcome to my GitHub profile" width="600">
-
+  ![](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
   <br>
   <br>
 

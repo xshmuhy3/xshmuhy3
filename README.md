@@ -3,11 +3,28 @@
 ## WELCOME TO MY GITHUB PROFILE
 
 ## First get that soul nourishment
+<!-- THEME: DARK METALLIC / COFFEE -->
+<div align="center">
 
+  ## ☕ FIRST, GET THAT SOUL NOURISHMENT.
+  
+  <!-- Sleek, dark masculine tech badges to set the color theme -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/FOCUS-MATTE_BLACK-%231A1A1A?style=for-the-badge" alt="Focus">
+    <img src="https://img.shields.io/badge/ROUTINE-CHARCOAL-%23333333?style=for-the-badge" alt="Routine">
+    <img src="https://img.shields.io/badge/FUEL-DARK_AMBER-%23C17817?style=for-the-badge" alt="Fuel">
+  </p>
+
+  <br>
+
+  <!-- The Coffee GIF (Shortened Giphy URL) -->
+  <img src="https://media.giphy.com/media/d3MK0QHQT77J848g/giphy.gif" alt="Dark Coffee Pouring" width="450">
+
+</div>
 
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>
-  <br>
+  
 
   <!-- 2. UNDER CONSTRUCTION GIF (Tenor) -->
   <img src="https://media.tenor.com/7bAonm1hAnAAAAAi/under-construction-site.gif" alt="Under Construction" width="350">
@@ -22,18 +39,7 @@
 
 <br>
 
-## 🛠️ My Tech Stack
-<!-- TECH STACK IMAGES (Direct, clean tech badges) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
 
-<br>
-<br>
 
 <!-- 4. FLAMES GIF (Giphy - Tiled neatly at the bottom) -->
 <div align="center">

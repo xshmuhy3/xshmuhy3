@@ -10,7 +10,7 @@
 <div align="center">
   <h2>FIRST, GET THAT SOUL NOURISHMENT.</h2>
   <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="400">
-  
+</div>  
   <br>
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>

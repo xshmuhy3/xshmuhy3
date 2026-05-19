@@ -11,6 +11,13 @@
   <h2>FIRST, GET THAT SOUL NOURISHMENT.</h2>
   <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="400">
   <br>
+  <br>
+  
+
+  <img src="https://media.tenor.com/7bAonm1hAnAAAAAi/under-construction-site.gif" alt="Under Construction" width="350">
+</div>
+
+<br>
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>
  <div align="center">

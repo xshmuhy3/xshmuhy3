@@ -18,7 +18,7 @@
   <h3>
     <img src="https://img.shields.io/badge/I_LOVE_CODE-%2300FF66?style=for-the-badge&logo=codefactor&logoColor=black" alt="I Love Code">
     &nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif" width="45" align="center">
+     <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif" width="45" align="center">
   </h3>
 </div>
 

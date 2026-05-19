@@ -1,6 +1,11 @@
 <div align="center">
 
 ## WELCOME TO MY GITHUB PROFILE
+
+## First get that soul nourishment
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
+https://media0.giphy.com/media/H039N0p5winHG/giphy.gif
+
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>
   <br>

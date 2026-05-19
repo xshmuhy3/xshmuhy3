@@ -8,22 +8,20 @@
 
 <!-- 2. COFFEE & UNDER CONSTRUCTION SECTION -->
 <div align="center">
-  <h2>☕ FIRST, GET THAT SOUL NOURISHMENT.</h2>
+  <h2>FIRST, GET THAT SOUL NOURISHMENT.</h2>
   <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="400">
   
   <br>
   <br>
 
-  <img src="https://media.tenor.com/7bAonm1hAnAAAAAi/under-construction-site.gif" alt="Under Construction" width="350">
+  <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif">
 </div>
 
 <br>
 
-<!-- 3. VIBRANT I LOVE CODE WITH TYPING CAT -->
+
 <div align="center">
   <h3>
-    <img src="https://img.shields.io/badge/I_LOVE_CODE-%2300FF66?style=for-the-badge&logo=codefactor&logoColor=black" alt="I Love Code">
-    &nbsp;&nbsp;
     <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="45" align="center">
   </h3>
 </div>

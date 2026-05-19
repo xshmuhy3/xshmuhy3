@@ -12,8 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <!-- Medium Badge (Points to your blog) -->
-    <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+    <a href="https://medium.com/@musamu/activity">
       <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
     </a>
   </p>

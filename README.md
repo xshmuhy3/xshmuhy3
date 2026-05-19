@@ -6,14 +6,15 @@
   </h1>
 </div>
 
-<!-- 2. COFFEE & UNDER CONSTRUCTION SECTION -->
+
 <div align="center">
   <h2>FIRST, GET THAT SOUL NOURISHMENT.</h2>
   <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="400">
   
   <br>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>
-
+  ## I Love Code 
   <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif">
 </div>
 

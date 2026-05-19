@@ -1,5 +1,6 @@
 <div align="center">
-  <!-- 1. WELCOME TO MY GITHUB PROFILE GIF (Giphy) -->
+
+## WELCOME TO MY GITHUB PROFILE
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
   <br>
   <br>
@@ -10,7 +11,7 @@
 
 <br>
 
-## 👋 About Me
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
 - 🚀 **Passion:** I love building cool apps and experimenting with new code.
 - 🛠️ **Current Project:** Working on making this profile look absolutely legendary.
 - ⚡ **Fun Fact:** Fueled entirely by caffeine and animated GIFs.

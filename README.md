@@ -2,7 +2,6 @@
 
 ## WELCOME TO MY GITHUB PROFILE
 
-## First get that soul nourishment
 <!-- THEME: DARK METALLIC / COFFEE -->
 <div align="center">
 
@@ -17,13 +16,11 @@
 
   <br>
 
-  <!-- The Coffee GIF (Shortened Giphy URL) -->
-  <img src="https://media.giphy.com/media/d3MK0QHQT77J848g/giphy.gif" alt="Dark Coffee Pouring" width="450">
 
+ <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3ZXVubWEydWxleXB2ZjFnb2JjN3YxcjFmcmUzNWF0a20wdnA5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H039N0p5winHG/giphy.gif>
 </div>
 
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
-  <br>
+
   
 
   <!-- 2. UNDER CONSTRUCTION GIF (Tenor) -->

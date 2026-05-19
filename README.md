@@ -6,13 +6,10 @@
     <img src="https://img.shields.io/badge/GITHUB_PROFILE-%23333333?style=for-the-badge&labelColor=%231A1A1A" alt="Github Profile">
   </h1>
 
-</div>
-
   ## ☕ FIRST, GET THAT SOUL NOURISHMENT.
- <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3ZXVubWEydWxleXB2ZjFnb2JjN3YxcjFmcmUzNWF0a20wdnA5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H039N0p5winHG/giphy.gif>
+ <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3ZXVubWEydWxleXB2ZjFnb2JjN3YxcjFmcmUzNWF0a20wdnA5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H039N0p5winHG/giphy.gif
+
 </div>
-
-
   
 
   <!-- 2. UNDER CONSTRUCTION GIF (Tenor) -->

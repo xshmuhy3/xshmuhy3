@@ -12,26 +12,24 @@
   <br>
  
 
- <br>
+
+<div align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
-  <br>
- <div align="center">
-
-
-  <div align="center">
-  <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif width="500">
-  <br>
- 
+</div>
 
 <br>
 
 
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="45" align="center">
-  </h3>
+  <img src="https://media.giphy.com/media/uqWeJVZoQAvdzpbAoN/giphy.gif" width="500">
 </div>
 
+<br>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="45">
+</div>
 <br>
 
 

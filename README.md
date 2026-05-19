@@ -1,4 +1,4 @@
-<!-- 1. HEADER BADGES -->
+
 <div align="center">
   <h1>
     <img src="https://img.shields.io/badge/WELCOME_TO_MY-%231A1A1A?style=for-the-badge&labelColor=%23C17817" alt="Welcome To My">
@@ -27,7 +27,7 @@
 
 <br>
 
-<!-- 4. FLAMES FOOTER BANNER -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/IDtfwOtb0729y/giphy.gif" alt="Flames" width="100%">
 </div>

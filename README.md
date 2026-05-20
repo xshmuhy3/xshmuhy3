@@ -5,9 +5,6 @@
     <img src="https://img.shields.io/badge/GITHUB_PROFILE-%23333333?style=for-the-badge&labelColor=%231A1A1A" alt="Github Profile">
   </h1>
   <p>
-    <a href="https://www.linkedin.com/in/muhyadin-musa/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
     &nbsp;&nbsp;
     <a href="https://medium.com/@musamu/activity">
       <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">

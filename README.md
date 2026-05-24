@@ -15,7 +15,7 @@
 
 <div align="center">
   <h2>FIRST, GET THAT SOUL NOURISHMENT.</h2>
-  <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="600">
+  <img src="https://media.giphy.com/media/H039N0p5winHG/giphy.gif" alt="Coffee" width="500">
   <br>
  
 
@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="45">
+  <img src="https://media.giphy.com/media/pi1X3ejDl9S3epzwEk/giphy.gif" width="65">
 </div>
 <br>
 

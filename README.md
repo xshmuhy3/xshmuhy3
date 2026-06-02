@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>..nn//mmm
+  <h1>
     <img src="https://img.shields.io/badge/WELCOME_TO_MY-%231A1A1A?style=for-the-badge&labelColor=%23C17817" alt="Welcome To My">
     <img src="https://img.shields.io/badge/GITHUB_PROFILE-%23333333?style=for-the-badge&labelColor=%231A1A1A" alt="Github Profile">
   </h1>

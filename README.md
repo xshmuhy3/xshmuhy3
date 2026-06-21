@@ -1,4 +1,4 @@
-<div align="center">v
+<div align="center">
   
   <h1>
     <img src="https://img.shields.io/badge/WELCOME_TO_MY-%231A1A1A?style=for-the-badge&labelColor=%23C17817" alt="Welcome To My">
